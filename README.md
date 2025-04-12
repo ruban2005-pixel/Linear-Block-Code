@@ -111,8 +111,8 @@ add1 = add % 2
 print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ```
 ### Output
-![Screenshot 2025-04-12 154416](https://github.com/user-attachments/assets/8dce9e03-5834-4b2b-8b1a-f538d13d77cb)
-![Screenshot 2025-04-12 154429](https://github.com/user-attachments/assets/9ccb94ac-4067-4dc5-9260-140be58f4e27)
+![Screenshot 2025-04-12 154152](https://github.com/user-attachments/assets/dba27748-f72c-4ba2-a109-1a9afd297997)
+![Screenshot 2025-04-12 154043](https://github.com/user-attachments/assets/45373e97-4ab6-4178-a8c3-bd378a3578ca)
 
 ### Results
 Thus the linear block code(LBC) program is executed and the parity matrix is generated successfully.
