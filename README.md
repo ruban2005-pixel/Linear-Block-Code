@@ -5,7 +5,7 @@
     Personal computer
     Google colab software.
 ### Program
-```
+```python
 import numpy as np
 
 pb = [] # Parity matrix
