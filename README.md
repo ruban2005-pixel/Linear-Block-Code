@@ -1,9 +1,9 @@
 # Linear-Block-Code
 ### Aim
-    The aim of this program is to simulate linear block code(LBC),generate parity matrix and corrected codeword.
+The aim of this program is to simulate linear block code(LBC),generate parity matrix and corrected codeword.
 ### Tools Required
-    Personal computer
-    Google colab software.
+Personal computer
+Google colab software.
 ### Program
 ```python
 import numpy as np
@@ -115,4 +115,4 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ![Screenshot 2025-04-12 154429](https://github.com/user-attachments/assets/9ccb94ac-4067-4dc5-9260-140be58f4e27)
 
 ### Results
-    Thus the linear block code(LBC) program is executed and the parity matrix is generated successfully.
+Thus the linear block code(LBC) program is executed and the parity matrix is generated successfully.
